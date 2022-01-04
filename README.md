@@ -6,3 +6,9 @@ verified are each on a newline and are of the following form:
   VALID:
   'https://www.example.com'
   'http://www.example.com'
+
+# Example Usage:
+
+> python3 url-status.py
+
+Then it asks for input file.
